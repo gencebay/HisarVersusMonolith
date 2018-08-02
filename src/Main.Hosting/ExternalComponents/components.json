@@ -1,0 +1,8 @@
+﻿{
+  "components": {
+    "Hisar.Component.CoreManagement": {
+      "targetFramework": "netcoreapp2.1",
+      "version": "2.1.1"
+    }
+  }
+}
